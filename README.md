@@ -1,17 +1,16 @@
-<h2 align="center">
-  Hello together! 🖐
-</h2>
 <h3 align="center">
-🖥️ My name is Roman I'm Junior Software Developer striving to keep moving forward and having the fun by this. 💻
+  Hello together! 🖐
 </h3>
-<br>
-
+<h4 align="center">
+🖥️ My name is Roman I'm Junior Software Developer striving to keep moving forward and having the fun by this. 💻
+</h4>
+<h5 align="center">
 Though I want to be able to create the complete website, I am actracted to the BE far more.
 My advantages could be the experience from the various types of jobs, strong logical thinking and persistance.
-<br>
+<h5>
 
 ### 🤝You can reach me here:🤝
-//<a href="https://www.linkedin.com/in/matej-thomka-ab2212286/"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/linkedin.png" alt="linkedin" width="30px"/></a>
+<a href="https://www.linkedin.com/in/roman-milata-3b300426a"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/linkedin.png" alt="linkedin" width="30px"/></a>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=roman.milata.za@gmail.com"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/gmail.png" alt="gmail" width="30px"/></a>
 <br>
 
