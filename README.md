@@ -14,19 +14,6 @@ My advantages could be the experience from the various types of jobs, strong log
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=roman.milata.za@gmail.com"><img align="left" src="https://raw.githubusercontent.com/MatejThomka/MatejThomka/main/images/gmail.png" alt="gmail" width="30px"/></a>
 <br>
 
-
-## 🔬 I'm learning right now
-
-- Java Swing
-- JavaFX
-- Jakarta EE/WildFly
-<br>
-
-## 🖋️ I'm working right now
-
-- ResumeApp
-<br>
-
 ## 🚀 My skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
