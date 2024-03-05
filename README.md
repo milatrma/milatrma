@@ -2,7 +2,7 @@
   Hello together! 🖐
 </h3>
 <h4 align="center">
-🖥️ My name is Roman I'm Junior Software Developer striving to keep moving forward and having the fun by this. 💻
+🖥️ My name is Roman. I'm Junior Software Developer striving to keep moving forward and having the fun by this. 💻
 </h4>
 <h5 align="center">
 Though I want to be able to create the complete website, I am actracted to the BE far more.
