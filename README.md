@@ -7,6 +7,7 @@
 <h5 align="center">
 Though I want to be able to create the complete website, I am actracted to the BE far more.
 My advantages could be the experience from the various types of jobs, strong logical thinking and persistance.
+As well as my strong interpersonal skills.
 <h5>
 
 ### 🤝You can reach me here:🤝
@@ -44,7 +45,7 @@ My advantages could be the experience from the various types of jobs, strong log
 
 
 
-### Hi there 👋
+### See you 👋
 
 <!--
 **milatrma/milatrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
